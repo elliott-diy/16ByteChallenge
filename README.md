@@ -1,5 +1,8 @@
 # 16ByteChallenge
 
+---
+
+This repository serves as an archive for the WHCC 16ByteChallange. When presented the source code was not give.
 
 ---
 
