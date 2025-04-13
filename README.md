@@ -22,7 +22,7 @@ If you reverse the logic and enter the correct input, the program will say:
 
 ## Download
 
-You can download the compiled binary from the [Releases](../../releases) section.
+You can download the compiled binary from the [Releases](https://github.com/elliott-diy/16ByteChallenge/releases/tag/v1.0.0) section.
 
 ---
 ## Why Go?
